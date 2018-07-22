@@ -16,7 +16,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 を入力し２階調画像を作成し図２に示す。
 
-![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai2/kadai2-2.png）
+![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai2/kadai2-2.png)
 
 図２　２階調画像
 
@@ -30,7 +30,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 を入力し４階調画像を作成し図３に示す。
 
-![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai2/kadai2-3.png）
+![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai2/kadai2-3.png)
 
 
 図３　４階調画像
