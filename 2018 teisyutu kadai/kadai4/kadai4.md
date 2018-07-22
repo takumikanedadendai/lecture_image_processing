@@ -5,7 +5,8 @@ ORG=rgb2gray(ORG); % カラー画像を白黒濃淡画像へ変換
 imagesc(ORG); colormap(gray); colorbar;
 
 によって，原画像を読み込み，表示した結果を図１に示す。
-![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai4/kadai4-2.png
+
+![原画像](https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai4/kadai4-2.png)
 
 図1   原画像　白黒濃淡画像
 
