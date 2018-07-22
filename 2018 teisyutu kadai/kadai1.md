@@ -6,7 +6,7 @@ imagesc(ORG); axis image; % 画像の表示
 によって，原画像を読み込み，表示した結果を図１に示す．
 
 
-https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai1/kadai1%20org.png
+(https://github.com/takumikanedadendai/lecture_image_processing/blob/master/2018%20teisyutu%20kadai/kadai%20sozai/kadai1/kadai1%20org.png)
 図1 原画像
 
 原画像を1/2サンプリングするには，画像を1/2倍に縮小した後，2倍に拡大すればよい．なお，拡大する際には，単純補間するために「box」オプションを設定する．
